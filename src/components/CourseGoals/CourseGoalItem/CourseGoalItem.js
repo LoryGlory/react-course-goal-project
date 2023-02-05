@@ -1,12 +1,12 @@
+// Course Goal Item component
 import React from 'react';
 
 import './CourseGoalItem.css';
 
 const CourseGoalItem = props => {
-  // const [deleteText, setDeleteText] = useState('');
 
+  // handler to send id of to be deleted goal to deleteItemHandler in App.js
   const deleteHandler = () => {
-    // setDeleteText('(Deleted!)');
     props.onDelete(props.id);
   };
 
