@@ -129,8 +129,8 @@ authentication.
 
 ## Possible future additions
 
-- [ ] Connect to database to write/read more than dummy expense entries
-- [ ] Add user management with authentication and individual expenses
+- [ ] Connect to database to write/read more than dummy goals
+- [ ] Add user management with authentication and individual goals
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
